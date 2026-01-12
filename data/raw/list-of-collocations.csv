@@ -1,0 +1,2694 @@
+no,right,left
+1,time,"long
+spend
+short
+waste
+take
+spare
+give
+present
+Working"
+2,year,"past
+coming
+full
+start
+take
+Spent"
+3,people ,"ordinary
+working
+elderly
+Disabled"
+4,way,"long
+go
+find
+get
+make (someone's N)
+come
+Easy"
+5,ways,"separate
+find
+alternative
+explore
+develop
+Subtle"
+6,man,"big
+tall 
+small
+Dark"
+7,day,"all (N long)
+present
+spent
+final
+full
+working
+whole
+start
+(have a) nice "
+8,days,"early
+past (few/number N)
+old
+spent
+working
+Take"
+9,thing,"whole
+(do the) right
+real
+(do the) wrong "
+10,child,"only
+Expecting"
+11,government,"coalition
+interim
+Elected"
+12,part,"take (N)
+play (the/a)
+integral
+large
+major
+essential
+Small
+vital
+form
+significant
+Full"
+13,parts,"spare
+component
+constituent
+played
+Separate"
+14,life,"real
+ family
+ everyday
+ whole
+ private
+ normal
+ live
+ saved
+ personal
+ public
+ early
+ spent
+ daily
+ Lead"
+15,lives,"Save
+ past
+ live
+ lost
+ private
+ claimed (a number of)
+ risk
+ lead
+ cost
+ Daily
+ spend
+ Everyday
+ separate
+ ordinary
+ normal"
+16,case,"court
+ present
+ particular
+ (a N) adjourned
+ Prosecution
+made
+ put
+ take
+ clear
+ strong
+ Extreme"
+17,cases," severe
+ court
+ extreme
+ serious
+ criminal
+ Injury"
+18,woman,"beautiful
+ attractive
+ pretty
+ tall
+ (good) looking"
+19,work,"hard
+ do
+ started
+ voluntary
+ charity
+ carried (out)
+ find
+ paid
+ major
+ Community"
+20,system,welfare
+21,group,"small
+ ethnic (minority N)
+ largest
+ formed
+ minority
+ leading
+ single
+ Research"
+22,number,"large
+ small
+ Increasing
+growing
+ limited
+ total
+ increased
+ significant
+ greater
+ reduce
+ considerable
+ substantial
+ high "
+23,world,"Real
+ whole
+ modern
+ Developing"
+24,area,"particular
+ play
+ surrounding
+ residential
+ wide
+ central
+ Major"
+25,course,"(in) due
+ training
+ main
+ designed
+ first
+ take
+ completed
+ ordinary
+ followed
+ full
+ Start"
+26,company,owned
+27,problem,"Solve
+ real
+ major
+ serious
+ big
+ particular
+ lies
+ Tackle
+overcome
+ common
+ faced
+ arises
+ cause
+ resolve
+ sort (out)
+ Address"
+28,service,"free
+ telephone
+ provide
+ memorial
+ intelligence
+ advisory
+ delivery
+ full
+ postal
+ security
+ Regular"
+29,hand,"held
+ took
+ shook
+ wash
+ raised
+ waved
+ lifted
+ helping
+ stretched out (his/her…+N)
+ extended
+ Strong"
+30,hands,"shook
+ holding
+ clasped
+ wash
+ raised
+ rubbed
+ Folded"
+31,party,"ruling
+ opposition
+ Led"
+32,school,"left
+ medical
+ Went
+ Whole"
+33,place,"take
+ wrong
+ (final) resting N
+ safe
+ right
+ put
+ Secure"
+34,point,"made
+ reached
+ whole
+ prove
+ Raised"
+35,house,"detached
+ family
+ moved +N"
+36,country,"Whole
+ leave
+ Foreign"
+37,week,"Past
+ spent
+ previous
+ whole
+ coming"
+38,member,"family
+ former
+ senior
+ leading
+ active
+ elected
+ union
+ Full"
+39,end,"west
+ east
+ came
+ put
+ far
+ brought (to an N)
+ reached
+ Bottom"
+40,ends,"Loose
+ achieve
+ Opposite"
+41,word,"use
+ say
+ spread
+ key
+ Final"
+42,example,"set
+ give
+ classic
+ perfect
+ take (the)
+ typical
+ prime
+ follow
+ provides
+ simple
+ obvious
+ recent
+ extreme
+ striking
+ outstanding
+ notable
+ Specific"
+43,family,"whole
+ extended
+ close
+ entire
+ large
+ nuclear
+ Big"
+44,families,"(lone/one/ single) parent
+ one-parent
+ lone
+ single-parent
+ Low-income"
+45,fact,"Actual
+ simple
+ N + remains
+ mere
+ face"
+46,facts,"relevant
+ stated
+ known
+ hard
+ basic
+ true
+ face
+ Full"
+47,state,"Mental
+ declared
+ announced"
+48,home,"Come
+ family
+ stay
+ return
+ left
+ ideal
+ get
+ made
+ feel
+ Matrimonial"
+49,month,"Past
+ Spent"
+50,side,"(left-right) hand
+ wrong
+ dark "
+51,sides,"Opposite
+ N + agreed
+ Take"
+52,night,"Spent
+ stay
+ opening
+ dark
+ early"
+53,nights,"Sleepless
+ Spent"
+54,eye,"Keep
+ public
+ watchful
+ naked
+ cast
+ look (in the N)
+ twinkle
+ critical"
+55,eyes,"Wide
+ fixed
+ bright
+ rolled
+ turned
+ filled (with)
+ pale
+ narrowed
+ raised
+ held"
+56,head,"shook
+ turned
+ bowed
+ raised
+ bent
+ lifted
+ held (N high)
+ jerked
+ lowered
+ nodded
+ clear
+ pulled (N back)
+Threw (back)
+ tilted "
+57,information,"further
+ provide
+ detailed
+ additional
+ relevant
+ obtained
+ confidential
+ exchange
+ collected
+ supplied
+ contain
+ background
+ valuable
+ Gathering"
+58,question,"answer
+ ask
+ simple
+ raised
+ N + remains
+ whole
+ posed
+ real
+ address
+ Begs
+ crucial
+ central
+ relevant
+ fundamental"
+59,business,"Small
+ doing
+ whole
+ family
+ running
+ serious
+ private
+ conduct
+ Successful"
+60,power,"use
+ labour
+ real
+ Seized
+exercise
+ increase
+ vested
+ full
+ held "
+61,money,"Spend
+ save
+ get
+ make
+ raise
+ waste
+ earn
+ give
+ (pay) good"
+62,change,"Significant
+ radical
+ major
+ global
+ make
+ dramatic
+ fundamental
+ rapid
+ sudden
+ real
+ subject to
+ N + occurred"
+63,changes,"make
+ major
+ proposed
+ dramatic
+ occur
+ radical
+ significant
+ sweeping
+ necessary
+ introduced
+ minor
+ Rapid"
+64,interest,"public
+ special
+ lower
+ high
+ Mortgage
+real
+ fixed
+ particular
+ shown
+ take (an N in)
+ expressed
+ vested
+ common
+ Strong"
+65,interests,"(in the) best
+ protect
+ outside
+ vested
+ varied
+ serve
+ pursue
+ Defend"
+66,order,"make
+ keep
+ maintain
+ standing
+ restore
+ pecking
+ rigid
+ working
+ good
+ put
+ established
+ Take"
+67,book,"Latest
+ illustrated
+ reference"
+68,development,"child
+ sustainable
+ curriculum
+ career
+ further
+ Rapid"
+69,room,"double
+ single
+ Leave
+main
+ TV"
+70,water,"fresh
+ deep
+ running
+ clean
+ salt
+ still
+ shallow "
+71,form,"application
+ order
+ booking
+ complete (verb)
+ claim
+ fill
+ registration
+ take
+ (in) good "
+72,car,"park (verb)
+ hire
+ drive
+ police
+ racing
+ Crashed"
+73,level,"high
+ low
+ top
+ reached
+ intermediate
+ current
+ water
+ achieved "
+74,policy,"foreign
+ monetary
+ common
+ made
+ Adopted"
+75,line,"Direct
+ railway
+ draw (verb)
+ straight
+ crossed
+ fine
+ take
+ dividing"
+76,need,"urgent
+ feel
+ desperate
+ meet
+ stressed
+ N + arises"
+77,needs,"meet (verb)
+ individual
+ suit (verb)
+ satisfy
+ Strong"
+78,effect,"have
+ cause+ N
+ take
+ knock-on
+ direct
+ immediate
+ dramatic
+ desired
+ beneficial
+ profound
+ devastating
+ opposite
+ overall
+ adverse
+ Detrimental"
+79,effects,"long-term
+ harmful
+ adverse
+ direct
+ beneficial
+ damaging
+ Profound"
+80,use,"drug
+ make
+ good (make good/full N of)
+ widespread
+ full
+ Extensive"
+81,uses,common
+82,idea,"whole
+ give (an)
+ get
+ rejected
+ original
+ faintest
+ simple
+ wrong
+ put (forward/aside the + N)
+ form
+ developed "
+83,ideas,"exchange
+ original
+ fresh
+ Bright"
+84,study,"present + N
+ N + found
+ recent
+ pilot
+ showed
+ carried
+ conducted
+ research
+ major
+ reported
+ undertaken
+ designed
+ significant "
+85,lot,"awful
+ Whole"
+86,job,"do
+ good
+ get
+ part-time
+ lost
+ find
+ quit
+ full-time
+ finish
+ leave
+ Proper"
+87,jobs,"create
+ lost
+ temporary
+ do
+ odd
+ save
+ shed (number)
+ secure
+ permanent
+ unskilled
+ Full-time"
+88,name,"real
+ given
+ put
+ full
+ proper
+ second
+ Last"
+89,names,"give
+ call (someone's N)"
+90,result,"direct
+ final
+ net
+ achieve
+ inevitable
+ produce
+ overall
+ further
+ poor
+ significant
+ Desire"
+91,body,"upper
+ dead
+ N + lay
+ naked
+ Lower"
+92,friend,"best
+ close
+ old
+ family
+ made N in"
+93,friends,"family
+ close
+ old
+ make
+ became
+ Real"
+94,right,vote + N
+95,rights,"pension
+ full
+ Minority"
+96,authority,"given (give + N)
+ exercise + N or someone's + N
+ Legitimate"
+97,view,"take (the + N)
+ shared
+ full
+ expressed
+ support
+ give
+ clear
+ held
+ (give) a true (and fair)
+ Accept"
+98,report,"full
+ Final
+N+ released
+ Issue"
+99,bit,wee (Scottish) 
+100,face,"pale
+ slap + (someone's) + N
+ pretty
+ turned
+ round
+ flushed
+ beautiful
+ smiling
+ Handsome"
+101,market,"Free
+ housing
+ major"
+102,hour,"spent
+ took
+ late
+ early
+ N + passed
+ Finest"
+103,hours,"spent
+ early (N of the morning)
+ working
+ long
+ took
+ permitted
+ small
+ normal
+ daylight
+ school
+ put in
+ late
+ Flying"
+104,rate,"fixed
+ Inflation
+ Low"
+105,law,"Beaking
+ passed
+ Enforce"
+106,door,"Knock
+ slammed
+ N + swung (open)
+ pushed
+ pulled
+ flung (open) N"
+107,court,"told (the N)
+ heard
+ ruled
+ appear (in)
+ held
+ take obj to"
+108,office,"Took
+ Held"
+109,war,"End
+ declared
+ N+ broke (out)
+ fought"
+110,reason,"(for the) simple
+ (there is) real
+ (for no) apparent
+ given a reason
+ major
+ sufficient
+ (for some) unknown"
+111,minister,"Appointed
+ junior
+ elected"
+112,person,"missing
+average
+ single
+ disabled
+ Elderly
+Authorised"
+113,terms,"practical
+ general
+ agreed (to the N)
+ broad
+ (on) equal
+ (in) absolute
+ accept
+ Relative"
+114,sorts,all
+115,period ,"Minimum
+ extended
+ trial
+ limited
+ prolonged
+ considerable
+ maximum"
+116,society,"modern
+ whole
+ classless
+ High"
+117,process,"whole
+ involved
+ decision-making
+ continuous
+ complete
+ gradual
+ Lengthy"
+118,mother,"single
+ Foster"
+119,voice,"low
+ loud
+ soft
+ deep
+ quiet
+ high
+ lowered 
+raised
+ clear
+ husky
+ harsh
+ hoarse
+ cracked
+ Sharp"
+120,police,"Called
+ questioned"
+121,price,"high
+ retail
+ average
+ low
+ increase
+ expected
+ full
+ fixed
+ reasonable
+ fair
+ put
+ reduced
+ Competitive"
+122,action,"take
+ further
+ call for N
+ immediate
+ strike
+ direct
+ appropriate
+ urgent
+ drastic
+ libel
+ joint
+ Remedial"
+123,issue,"big
+ major
+ raised (an N)
+ key
+ sensitive
+ central
+ take N
+ crucial
+ Fundamental
+controversial
+ serious
+ complex
+ N was resolved "
+124,position,"strong
+ hold
+ difficult
+ marginal
+ dominant
+ placed (in)
+ maintain
+ privileged
+ competitive
+ leading
+ strengthen
+ Reached"
+125,cost,"low
+ effective
+ extra
+ total
+ high
+ cover
+ estimated
+ additional
+ meet
+ reduced
+ Reasonable"
+126,matter,"simple
+ further
+ serious
+ referred
+ raised
+ Resolved"
+127,figure,"leading
+ tall
+ central
+ high
+ public
+ major
+ low
+ Increase"
+128,figures ,"released
+ official
+ leading
+ Public"
+129,type,"particular
+ certain
+ common
+ Media"
+130,research ,"shows
+ done
+ suggests
+ Further
+ carried
+ conducted
+ Future"
+131,education ,"further
+ Public"
+132,programme,"major
+ full
+ launched
+ extensive
+ current
+ completed
+ run
+ Ambitious"
+133,minute ,"hang
+ take
+ hold
+ Full"
+134,moment,"right
+ long
+ paused
+ took
+ brief
+ Precise"
+135,girl ,"beautiful
+ Pretty"
+136,age,"early
+ golden
+ retirement
+ maternal
+ Reached"
+137,ages,dark
+138,centre,"Entertainment
+ (day) care"
+139,control ,"take
+ lost
+ have
+ complete
+ total
+ gain
+ regain
+ full
+ keep
+ effective
+ direct
+ exercise
+ tight
+ retain
+ strict
+ Overall
+ maintain"
+140,value,"good N (for money)
+ great
+ added
+ total
+ real
+ high
+ equal
+ increase
+ full
+ add
+ true
+ estimated
+ Critical
+Fair"
+141,health,"mental
+ poor
+ medical
+ Improve"
+142,decision,"made
+ final
+ taken
+ court
+ announced
+ conscious
+ unanimous
+ follows
+ reached
+ support
+ came
+ Reversed"
+143,force,"use
+ military
+ driving
+ peacekeeping
+ excessive
+ full
+ dominant
+ powerful
+ strong
+ armed
+ Brute"
+144,forces,"security
+ joined
+ Opposition"
+145,condition,"good
+ serious
+ medical
+ critical
+ stable
+ excellent
+poor
+ immaculate
+ sufficient
+ Deteriorated
+Perfect"
+146,conditions,"weather
+ living
+ working
+ improve
+ appalling
+ poor
+ satisfied (verb)
+ favourable
+ impose
+ prevailing
+ adverse
+ meet
+ Fulfilled"
+147,paper,printed
+148,section,"previous
+ final
+ separate
+ Further"
+149,patients,treated
+150,road,"main
+ cross
+ busy
+ major
+ line (the N with people)"
+151,table,"league
+ lay the N"
+152,church,"whole
+ Established"
+153,mind,"bear
+ keep
+ open (adj)
+ had
+ crossed
+ Conscious
+came (to/into N)"
+154,team,"dream
+ national
+ winning
+ N + won
+ led
+ beat
+ support + N"
+155,experience,"previous
+ practical
+ gain
+ learning
+ relevant
+ working
+ extensive
+ past
+ direct
+ Valuable"
+156,death,"sudden
+ accidental
+ caused
+ Tragic"
+157,act,"criminal
+ passed
+ Amended"
+158,sense,"make
+ strong
+ real
+ false
+ True"
+159,staff,"trained
+ support
+ extra
+ permanent
+ qualified
+ Experienced"
+160,student,former
+161,language,"foreign
+ use
+ speak
+ modern
+ native
+ Official"
+162,morning,"early
+ late
+ spent
+ Bright"
+163,plan,"peace
+ action
+ radical
+ approved
+ strategic
+ drawn up
+ adopted
+ ambitious
+ Prepare"
+164,product,"final
+ make
+ launch+ N
+ competitive
+ Create"
+165,city,"capital
+ ancient
+ Beautiful"
+166,ground,"common
+ lost
+ open
+ Gaining"
+167,letter,"quick
+ post
+ business
+ Resignation"
+168,evidence,"give
+ N + suggests
+ presented
+ hard
+ provide
+ strong
+ N + shows
+ sufficient
+ conclusive
+ considerable
+ supporting
+ ample
+ circumstantial
+ insufficient
+ growing
+ Indicate"
+169,foot,set
+170,feet,"bare
+ rose (to her N)"
+171,boy,"bad
+ small
+ good
+ Big"
+172,game,"win
+ Final"
+173,food,"fresh
+ delicious
+ Diet"
+174,role,"play
+ key
+ leading
+ major
+ active
+ central
+ vital
+ starring
+ Crucial
+take
+ traditional
+ supporting
+ prominent
+ passive
+ essential
+ Minor"
+175,practice,"common
+ private (doctors)
+ medical
+ Classroom"
+176,bank,collapsed 
+177,support ,"strong
+ public
+ provide
+ received
+ family
+ technical
+ giving
+ emotional
+ Substantial"
+178,event,"major
+ unlikely
+ sporting
+ big
+ held
+ annual
+ history
+ Final"
+179,building,"main
+ tall
+ House"
+180,range,"wide
+ long
+ full
+ offers
+ free
+ broad
+ Vast
+Complete"
+181,stage,"early
+ final
+ reached
+ retirement
+ Further"
+182,meeting,"annual
+ held
+ summit
+ emergency
+ called
+ arranged
+ Adjourned"
+183,art,"modern
+ contemporary
+ great
+ Ancient"
+184,club,"join
+ Exclusive"
+185,arm,"put (someone's N around)
+ upper
+ grabbed
+ broken
+ broke
+ raised
+ Grasped"
+186,history,"family
+ Medical"
+187,parent,"single
+ Elderly"
+188,parents,"foster
+ adoptive
+ working
+ Single"
+189,land,"housing
+ held
+ open
+ work (verb)
+ native
+ farming
+ Waste"
+190,trade,"world
+ foreign
+ Retail"
+191,situation,"current
+ present
+ improve
+ desperate
+ remedy
+ impossible
+ Intolerable"
+192,teacher,"former
+ primary (school) "
+193,record,"world
+ set the record
+ breaking
+ unbeaten
+ criminal
+ keeping
+ poor
+ impressive
+ held
+ Achieved"
+194,relation,"bear
+ Close"
+195,field,visual
+196,window,"front
+ back
+ smashed
+ Rear"
+197,account,"taken (into)
+ Opened"
+198,difference,"make
+ big
+ tell
+ little
+ see
+ significant
+ potential
+ real
+ fundamental
+ marked (adj)
+ Showed"
+199,material,raw
+200,materials,building
+201,air,"fresh
+ open
+ clean
+ clear
+ breathe
+ thick
+ Heavy"
+202,wife,"second
+ left + N
+ former
+ Estranged"
+203,project,"whole
+ completed
+ complete
+ ambitious
+ Run"
+204,sales,"retail
+ increased
+ record
+ Rose
+annual
+ boost
+ total
+ direct
+ Potential
+ expected"
+205,relationship,"close
+ loving
+ special
+ working
+ lasting
+ love
+ serious
+ direct
+ strong
+ establish
+ developed
+ inverse
+ causal
+ intimate
+ to end
+ see
+ public
+ Maintain"
+206,light,"bright
+ shed
+ natural
+ low
+ throw
+ switch (on/off)
+ turned (on/off)
+ strong
+ cast
+ flashing
+ soft
+ cold
+ shining
+ pale
+ full
+ fading
+ flickering
+ Clear"
+207,care,"take
+ medical
+ Primary
+private
+ home
+ nursing
+ provide
+ family
+ Domiciliary"
+208,rule,"(as a) general
+ golden
+ Established"
+209,story,"tell
+ true
+ full
+ main
+ real
+ Big"
+210,quality,"high
+ good
+ top
+ poor
+ improve
+ excellent
+ air
+ superb
+ low
+ Total"
+211,tax,"increases
+ Gross"
+212,nature,"human
+ N+ calls"
+213,structure,family
+214,data,"collected
+ suggest
+ support
+ Present"
+215,method,"use
+payment
+ effective
+ simple
+ alternative
+ traditional
+ adopted
+ applied
+ preferred
+ Provide"
+216,unit,"family
+ Hospital"
+217,bed,"get (into/out of/off the N)
+ lying
+ double
+ (four) poster
+ go
+ single
+ Make"
+218,union,join
+219,movement,rights N
+220,detail,"greater
+ (in) fine
+ considerable
+ sufficient
+ Further"
+221,details,"further
+ full
+ give
+ Provide"
+222,model,"following (verb)
+ developed
+ Top"
+223,computer,"running
+ Using"
+224,hospital,"general
+ (to be) admitted (to N)
+ mental
+ go
+ Transferred"
+225,chapter,"discussed
+ previous
+ contains
+ examines
+ preceding
+ Covered"
+226,scheme,"training
+ launched
+ successful
+ designed
+ devised "
+227,theory,critical
+228,property,"private
+ commercial
+ land
+ owned
+ (to) purchase"
+229,officer,"chief
+ army
+ Prison"
+230,charge,"free (of)
+ take
+ extra
+ additional
+ initial
+ minimum
+ made
+ put (in/on)
+ Fixed"
+231,charges,bank
+232,director,"general
+ film
+ appointed
+ Theatre"
+233,approach,"cautious
+ adopted
+ taken
+ alternative
+ made
+ fresh
+ radical
+ Effective"
+234,chance,"have
+ get
+ given
+ stand a N
+ take
+ great
+ second
+ little
+ missed
+ offered
+ big
+ fair
+ came
+ reasonable
+ jumped (at the N) "
+235,application,"complete
+ Made"
+236,amount,"certain
+ small
+ enormous
+ huge
+ fair
+ tremendous
+ large
+ considerable
+ minimum
+ full
+ reasonable
+ maximum
+ Substantial
+increased
+ Outstanding"
+237,son,"eldest
+ baby
+ oldest
+ Illegitimate"
+238,operation,"rescue
+ police
+ major
+ successful
+ performed
+ underwent
+ military
+ Emergency"
+239,opportunity,"given
+ equal
+ take
+ provide
+ unique
+ golden
+ missed
+ perfect
+ offered
+ rare
+ ideal
+ seize
+ the N presented itself
+ excellent
+ ample
+ real
+ Arose"
+240,leader,opposition 
+241,look,"take
+ have
+ quick
+ closer
+ hard
+gave
+ shot
+ (take a ) fresh N (at)"
+242,production,"increase
+ stage
+ Theatre"
+243,picture,"exclusive
+ complete
+ taken
+ shows
+ clear
+ overall
+ N + emerges
+ accurate
+ mental
+ presented
+ similar
+ Full"
+244,source,"major
+ single
+ primary
+ valuable
+ constant
+ Principal"
+245,security,"top
+ maximum
+ Increase"
+246,contract,"signed
+ expires
+ won
+ awarded
+ agreed
+ binding
+ Terminate"
+247,agreement,"reached
+ signed
+ peace
+ (free) trade
+ co-operation
+ nodded (in) N
+ concluded
+ Ceasefire
+entered (into)
+ come
+ draft
+ mutual
+ final
+ N + provided (for)
+ broad
+ failed (to reach N)
+ end
+ make
+ (in) full
+ voluntary
+ binding
+ common
+ Complete"
+248,site,"( a + number) acre + N
+ caravan
+ archaeological
+ suitable
+ Construction"
+249,labour,"female
+ Temporary"
+250,test,"fitness
+ passed
+ final
+ failed
+ have
+ put (to the N)
+ take
+ showed
+ pilot
+ Standard"
+251,loss,"weight
+ memory
+ suffered
+ hair
+ caused
+ total
+ made N
+ reported
+ blood
+ hearing
+ Great
+job
+ lead (to N)
+ consequential
+ felt
+ considerable
+ cover (the N)
+ substantial
+ serious
+ severe
+ incurred
+ major
+ Complete"
+252,colour,"full
+ add
+ light
+ dark
+ bright
+ pale
+ give
+ high
+ Strong"
+253,shop,"gift
+ pet
+ run
+ antique
+ video
+ High (Street)
+ Souvenir"
+254,benefit,"housing
+ get
+ maximum
+ marginal
+ claim
+ receive
+ Invalidity"
+255,benefits,enjoy
+256,animal,wild
+257,heart,"broken
+ Beating
+pounding (adj)
+ suffered
+ stopping
+ lies (at the N of)
+ thumping
+ heavy
+ Thudding"
+258,election,"general
+ won
+ held
+ following
+ lost
+ fought
+ Forthcoming"
+259,elections,"general
+ national
+ Municipal"
+260,purpose,"serve
+ sole
+ general
+ specific
+ primary
+ useful
+ real
+ special
+ intended
+ Dual"
+261,standard,"high
+ poor
+ set
+ required
+ double
+ reasonable
+ maintain
+ meet
+ improve
+ low
+ minimum
+ Acceptable"
+262,standards,"safety
+ Meet
+raise
+ Minimum"
+263,secretary,"former
+ private
+ Appointed"
+264,date,"closing
+ blind
+ set
+ effective
+ due
+ fixed
+ target
+ early
+ Agreed"
+265,music,"played
+ classical
+ live
+ popular
+ traditional
+ loud
+ contemporary
+ make
+ written
+ Composed"
+266,hair,"blonde
+ blond
+ curly
+ thick
+ dyed
+ facial
+ fair
+ cropped
+ dye
+ straight
+ wash
+ brushed
+ soft
+ permed
+ ginger
+ Auburn"
+267,factor,"major
+ key
+ risk
+ significant
+ crucial
+ determining
+ contributory
+ deciding
+ limiting
+ time
+ common
+ critical
+ contributing
+ decisive
+ vital
+ N + influencing
+ cost
+ human
+ additional "
+268,pattern,"follow
+ set
+ established
+ regular
+ shows
+ complex
+ common
+ Repeated"
+269,front,house
+270,evening,"early
+ Late
+ spent"
+271,population,"civilian
+ large
+ entire
+ total
+ whole
+ Overall"
+272,plant,"processing
+ Reprocessing"
+273,pressure,"put N on
+ high
+ increasing
+ (peer) group
+ intense
+ enormous
+ growing
+ low
+ applied
+ came (under N)
+ considerable
+ exerted
+ take N off
+ strong
+ constant
+ heavy
+ Severe"
+274,response,"immediate
+ positive
+ sexual
+ public
+ initial
+ poor
+ emotional
+ given
+ rapid
+ Quick"
+275,street,"side
+ walking (up/down the N)
+ Busy"
+276,performance,"strong
+ poor
+ improve
+ outstanding
+ live
+ impressive
+ Give"
+277,knowledge,"common
+ prior
+ acquired
+ required
+ Background
+expert
+ N + gained
+ full
+ working
+ special
+ true
+ professional
+ intimate
+ specific
+ Wide"
+278,design,"interior
+ garden
+ original
+ art
+ Research"
+279,page,"blank
+ turn
+ printed
+ (on the) opposite
+ Previous"
+280,rest,"spend (the)
+ have
+ get
+ take
+ Give"
+281,basis,"regular
+ daily
+ (on a) day(-to-day)
+ form
+ weekly
+ individual
+ provide
+ permanent
+ annual
+ temporary
+ voluntary
+ monthly
+ firm
+ Casual"
+282,size,"small
+ full
+ large
+ fits
+ increase
+ half (the N)
+ standard
+ average
+ medium
+ Reduce"
+283,environment,"natural
+ protect
+ safe
+ work
+ home
+ damage
+ improve
+ stable
+ hostile
+ healthy "
+284,fire,"opened N on
+ set N to / obj on N
+ caught
+ friendly
+ started
+ (fire) burning
+ N + broke (out)
+ light (verb)
+ caused
+ make
+ spread
+ Control"
+285,series,"whole
+ drama
+ comedy
+ documentary
+ produced
+ launched
+ final
+ successful
+ present
+ Runs"
+286,success,"huge
+ achieved
+ enjoyed
+ make
+ considerable
+ major
+ ensure
+ early
+ guarantee
+ relative
+ continuing
+ outstanding
+ likely
+ Immediate"
+287,thought,"spare (a N)
+ given
+ bear
+ ( a N )struck
+ (a N) occurred
+ deep
+ careful
+ N came (to me/mind)
+ serious
+ conscious
+ Modern"
+288,thoughts,"on second
+ Interrupted"
+289,"list 
+","long
+ full
+ make
+ complete
+ drawn (up)
+ Compiled"
+290,future,"near
+ foreseeable
+ bright
+ uncertain
+ secure (verb)
+ immediate
+ (N) holds
+ discuss
+ Distant
+(N+) lies
+ long-term
+ face
+ Bleak"
+291,analysis,"detailed
+ data N
+ showed
+ provide
+ performed
+ carried
+ suggests
+ careful
+ full
+ (a) developed"
+292,space,"storage
+ open
+ parking
+ limited
+ living
+ extra
+ empty
+ little
+ use
+ Free"
+293,tv,"watching
+ live
+ Colour"
+294,demand,"meet
+ increase
+ huge
+ consumer's
+ strong
+ high
+ growing
+ made
+ satisfy + N
+ Reduce"
+295,statement,"issued
+ N + said
+ made
+ Joint
+monthly
+ Released"
+296,attention ,"pay
+ draw
+ turned
+ focused
+ attract
+ media
+ special
+ medical
+ public
+ particular
+ close
+ brought
+ given
+ caught
+ divert
+ received
+ N is/should be directed
+ full
+ careful
+ considerable
+ serious
+ concentrated
+ distract
+ hold
+ constant
+ Urgent"
+297,love,"making
+ fall
+ true
+ real
+ young
+ passionate
+ Wonderful"
+298,principle,"general
+ basic
+ fundamental
+ established
+ Underlying"
+299,principles,"basic
+ general
+ Fundamental
+apply
+ underlying
+ established
+ guiding
+ Broad"
+300,set,"complete
+ full
+ whole
+ standard
+ Single"
+301,doctor,"see
+ hospital
+ consult
+ medical
+ went
+ called
+ local
+ visit
+ Examined"
+302,choice,"have
+ make
+ wide
+ given
+ offer
+ obvious
+ personal
+ free
+ consumer
+ limited
+ possible
+ natural
+ Informed"
+303,feature,"regular
+ striking
+ distinctive
+ major
+ particular
+ prominent
+ attractive
+ significant
+ characteristic
+ notable
+ Unusual
+unique
+ Dominant"
+304,couple,"happy
+ Elderly"
+305,step,"take
+ further
+ big
+ major
+ unusual
+ positive
+ necessary
+ significant
+ Essential"
+306,machine,use
+307,income,"low
+ annual
+ high
+ current
+ disposable
+ family
+ taxable
+ average
+ guaranteed
+ fixed
+ regular
+ national
+ paid
+ gross
+ extra
+ additional
+ (to) supplement"
+308,training,"job
+ youth
+ teacher
+ vocational
+ professional
+ staff
+ military
+ management
+ provide
+ Formal
+intensive
+ further
+ college
+ do (some)
+ in-service
+ initial
+ given
+ quality
+ received
+ business
+ Full"
+309,film,"making
+ Directed"
+310,effort,"make
+ put
+ relief
+ concerted
+ required
+ considerable
+ involved
+ conscious
+ major
+ ensure
+ extra
+ joint
+ minimum
+ Tremendous"
+311,player,"former
+ Outstanding"
+312,award,"won
+ presented
+ received
+ given
+ Prestigious"
+313,village,"fishing
+ pretty
+ situated
+ picturesque
+ quiet
+ deserted
+ Attractive"
+314,news,"good
+ radio
+ national
+ world
+ bad
+ told
+ daily
+ brief
+ today
+ latest
+ broke (the N to)
+ television
+ heard
+ tonight
+ N + reached
+ Spread"
+315,difficulty,"have
+ considerable
+ overcome
+ Increasing"
+316,cell,prison
+317,energy,"saving
+ low
+ high
+ renewable
+ waste
+ supply
+ alternative
+ Reduce"
+318,degree,"(to a) greater
+ high
+ (to a) certain
+ joint
+ considerable
+ lesser
+ honorary
+ awarded
+ remarkable
+ Obtained"
+319,means,"provide
+ effective
+ use
+ possible
+ alternative
+ Private
+ necessary"
+320,growth,"rapid
+ strong
+ potential
+ employment
+ personal
+ high
+ slow
+ continued
+ major
+ overall
+ Unemployment"
+321,treatment,"have
+ medical
+ hospital
+ further
+ require
+ receiving
+ drug
+ given
+ emergency
+ effective
+ preferential
+ prescribed
+ surgical
+ undergoing
+ Following"
+322,sound,"heard
+ poor
+ made
+ loud
+ distant
+ turned (down/up/off)
+ soft
+ deep
+ Produce"
+323,task,"impossible
+ daunting
+ simple
+ tough
+ set (himself)
+ perform
+ take (on/over)
+ carry out
+ completed (verb)
+ faced
+ undertake
+ formidable
+ Hard"
+324,provision,"made
+ Adequate"
+325,behaviour,"bad
+ good
+ learned
+ responsible
+ Disruptive"
+326,function,"perform
+ primary
+ brain
+ Fufil"
+327,resource,"human
+ Valuable
+ natural"
+328,resources,"natural
+ human
+ available
+ limited
+ energy
+ required
+ existing
+ Increase"
+329,defence,made
+330,garden,"back
+ vegetable
+ secret
+ front
+ walled
+ herb
+ flower
+ rose
+ do
+ rear
+ pretty
+ Attractive"
+331,floor,"top
+ upper
+ Reach"
+332,technology,"new
+ latest
+ advanced
+ using
+ Developed"
+333,style,"traditional
+ classic
+ unique
+ Adopt"
+334,feeling,"get
+ strong
+ general
+ strange
+ gave
+ bad
+ sinking
+ deep
+ gut
+ growing
+ Experienced"
+335,doubt,"cast
+ reasonable
+ put (in/beyond)
+ serious
+ leave (no/little)"
+336,horse,riding
+337,answer,"simple
+ give
+ lies
+ get
+ right
+ provide
+ correct
+ obvious
+ clear
+ wrong
+ straight
+ Satisfactory"
+338,user,allows
+339,funds,raise
+340,character,"central
+ main
+ great
+ strong
+ Distinctive"
+341,risk,"high
+ reduce
+ take
+ increased
+ run
+ put
+ serious
+ potential
+ involved
+ significant
+ minimise
+ Grave"
+342,dog,"walking (a N)
+ Pet"
+343,army,joined
+344,station,"radio
+ Tv"
+345,glass,broken
+346,glasses,wearing
+347,cup,"win
+ make (a N of)
+ played
+ nice N of tea"
+348,husband,"estranged
+ N + left
+ former
+ lost
+ Second"
+349,capital,"foreign
+ current
+ Major"
+350,note,"take
+ made (a mental)
+ left
+ mental
+ Delivery"
+351,season,start
+352,argument,"put (forward)
+ further
+ cited
+ additional
+ strong
+ made
+ rejected
+ support
+ accept
+ logical
+ Presented
+convincing
+ Powerful"
+353,show,"put (on a N)
+ live
+ quiz
+ open
+ go (on N)
+ held
+ run
+ Annual"
+354,responsibility,"take
+ accept
+ personal
+ full
+ moral
+ assume
+ Given"
+355,deal,"great
+ good
+ peace
+ struck
+ signed
+ fair
+ agreed
+ get
+ Make"
+356,economy,"slowing
+ planned
+ boost
+ Strong"
+357,element,"key
+ essential
+ strong
+ major
+ Significant"
+358,duty,heavy
+359,attempt,"made
+ serious
+ desperate
+ failed (+ N)
+ deliberate
+ unsuccessful
+ Vain"
+360,investment,"foreign
+ capital
+ business
+ made
+ increase
+ major
+ direct
+ attract
+ Massive"
+361,brother,"younger
+ older
+ elder
+ big
+ Little"
+362,title,"world
+ won
+ national
+ defend
+ retain
+ full
+ Took"
+363,hotel,"luxury
+ stay
+ (family-) run
+ comfortable
+ family
+ elegant
+ Booked"
+364,aspect,"particular
+ Further"
+365,increase,"huge
+ Significant
+substantial
+ marked
+ large
+ real
+ dramatic
+ massive
+ small
+ further
+ rapid
+ sharp
+ considerable
+ caused
+ major
+ modest
+ Big"
+366,help,"seek
+ professional
+ great
+ provide
+ give
+ offers
+ medical
+ receive
+ call (for)
+ appealed (for)
+ domestic
+ Require"
+367,summer,"late
+ spent
+ early
+ dry
+ Full"
+368,daughter,"eldest
+ youngest
+ Only"
+369,baby,"expecting
+ unborn
+ Lost"
+370,sea,"open
+ Calm"
+371,skill,"Required
+ considerable"
+372,claim,"make
+ rejected
+ compensation (claim)
+ Unfair"
+373,concern,"expressed
+ cause
+ growing
+ major
+ public
+ deep
+ real
+ increasing
+ considerable
+ Voiced"
+374,discussion,"open
+ further
+ considerable
+ Major"
+375,customer,particular
+376,box,"gift
+ (tick the) appropriate N"
+377,conference,"peace
+ party
+ told
+ annual
+ called
+ planned
+ hold
+ major
+ Opened"
+378,profit,"net
+ make
+ increase
+ Gross
+Small"
+379,division,"top
+ made
+ Major"
+380,procedure,"followed
+ standard
+ using
+ normal
+ adopted
+ complaints + N"
+381,king,"crowned
+ late
+ Appointed"
+382,image,"public
+ improve
+ clean (up)
+ Presented"
+383,oil,"virgin
+ Cooking"
+384,circumstance,causal
+385,circumstances,"certain
+ (in/under) normal
+ surrounding
+ exceptional
+ changing
+ personal
+ suspicious
+ unusual
+ causal
+ extreme
+ Favourable"
+386,proposal,"rejected
+ made
+ accepted
+ Original
+Approved"
+387,sector,voluntary
+388,direction,"(in the) right
+ opposite
+ (in the) wrong
+ future
+ Reverse"
+389,sign,"(a) good
+ shows
+ little
+ gave
+ (a) sure
+ visible
+ made (a/no N)"
+390,measure,"(in) large
+ temporary
+ (in) small
+ (in) equal
+ give
+ provide
+ (in) full"
+391,attitude,"adopted
+ Right"
+392,disease,"chronic
+ cause
+ transmitted
+ severe
+ Serious"
+393,commission,"set (up) + N
+ appointed + N
+ N + established
+ Take"
+394,seat,"back
+ front
+ Passenger
+take
+ rear
+ driver's
+ driving
+ parliamentary
+ Marginal"
+395,president,"former
+ elected
+ Re-elected"
+396,goal,"scored
+ (the) winning N
+ early
+ ultimate
+ achieve
+ N + disallowed"
+397,affair,whole
+398,affairs,"state
+ Current"
+399,technique,"using
+ developed
+ useful
+ applied
+ simple
+ effective
+ Employed"
+400,respect,"mutual
+ great
+ due
+ Earned"
+401,respects,pay
+402,item,news
+403,version,"film
+ Original
+final
+ current
+ Launched"
+404,ability,"develop
+ Limited"
+405,good,"do
+ public
+ Common"
+406,goods,"manufactured
+ Deliver"
+407,campaign,"election
+ launched
+ bombing
+ run
+ media
+ mounted
+ fought
+ waged
+ Conducted"
+408,advice,"give
+ seek
+ expert
+ free
+ offer
+ professional
+ practical
+ take
+ provide
+ sound
+ further
+ Followed"
+409,pupil,former
+410,advantage,"take
+ full
+ great
+ (to the) best
+ added
+ gain
+ unfair
+ give
+ big
+ major
+ significant
+ distinct
+ special
+ additional "
+411,memory,"short-term
+ stored
+ long
+ used
+ working
+ short
+ visual
+ long-term
+ Recent"
+412,memories,"childhood
+ brought (back)
+ happy
+ past
+ fond
+ vivid
+ old
+ Long"
+413,culture,"popular
+ western
+ dominant
+ Traditional"
+414,blood,"infected
+ Give"
